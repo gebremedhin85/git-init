@@ -1,4 +1,5 @@
 ox
+horse
 goat
 cut
 dog
