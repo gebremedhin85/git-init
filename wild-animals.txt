@@ -2,3 +2,4 @@ lion
 tiger
 hyena
 fox
+walya
